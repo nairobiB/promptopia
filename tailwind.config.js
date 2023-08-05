@@ -18,3 +18,4 @@ module.exports = {
   },
   plugins: [],
 };
+//Access to font family and colors
